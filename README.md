@@ -1,1 +1,5 @@
-# 0604775-hmwk2
+Galina Klikh
+Assignment 2
+
+
+Just learning to use Github.
