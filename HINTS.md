@@ -1,3 +1,3 @@
-### Hints
-This exercise requires you to process a collection of data. You can simplify your code by using lazy sequences to improve performance.
-For more information, see [this page](https://xosfaere.wordpress.com/2010/03/21/lazy-evaluation-in-csharp/).
+## Hints
+This exercise requires to deal with custom equality. For more information see 
+[this page.](http://www.loganfranken.com/blog/687/overriding-equals-in-c-part-1/)
