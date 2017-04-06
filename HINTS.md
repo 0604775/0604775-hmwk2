@@ -1,2 +1,2 @@
-## Hints		
-This exercise requires you to write an extension method. For more information, see [this page](https://msdn.microsoft.com/en-us//library/bb383977.aspx).
+## Hints
+This exercise deals with custom equality. For more information see [this page.](http://www.loganfranken.com/blog/687/overriding-equals-in-c-part-1/)
